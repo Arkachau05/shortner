@@ -1,0 +1,84 @@
+
+
+.hello{
+
+    border: 3px solid #000;
+    border-radius: 5px;
+    height: 40px;
+    line-height: normal;
+    color: #282828;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    user-select: auto;
+    font-size: 16px;
+    padding: 0 6px;
+    padding-left: 12px;    
+
+}
+.hello:focus{
+    border: 5px solid #5551ff;
+}
+
+.but{
+
+    display: inline-block;
+    outline: 0;
+    cursor: pointer;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
+    background: #FFD814;
+    border: 1px solid #FCD200;
+    font-size: 13px;
+    height: 35px;
+    padding: 0 11px;
+    text-align: center;
+    width: 100%;
+    min-width: 200px;
+    font-weight: 500;
+    color: #0F1111; 
+    width: 10vh;   
+    font-family: Impact, Charcoal, sans-serif;
+font-size: 20px;
+letter-spacing: 0.2px;
+word-spacing: 0.2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.but:hover{
+    background: #F7CA00;
+    border-color: #F2C200;
+    box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
+}
+
+.center-container-xx {
+    width: 70%; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the div horizontally */
+    text-align: center; /* Centers the text inside the div */
+    padding: 35px;
+}
+.pchange{
+    font-family: "Arial Black", Gadget, sans-serif;
+font-size: 25px;
+letter-spacing: 0.2px;
+word-spacing: 0.2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: capitalize;
+}
+.jio{
+    height: 40px;
+    border-radius: 70;
+}
+.nn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
